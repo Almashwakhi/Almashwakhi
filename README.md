@@ -90,15 +90,7 @@ WHERE  coffee > 0
 
 ---
 
-### 📈 Activity
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Almashwakhi&theme=tokyonight&hide_border=true&background=0F2027&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8" alt="GitHub streak" height="170"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Almashwakhi&theme=tokyo-night&hide_border=true&area=true&bg_color=0F2027&color=38BDF8&line=38BDF8&point=ffffff" alt="Contribution graph" width="100%"/>
-</p>
+### 🐍 Contributions
 
 <p align="center">
   <picture>
